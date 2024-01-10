@@ -17,11 +17,11 @@
   "repository": "https://github.com/AgoraLab/DynamicKeyServer-nodejs",
   "env": {
     "APP_ID": {
-      "description": "8845bb42239a41a299bd7bfe8cfc6414",
+      "description": "id ",
       "required": true
     },
     "APP_CERTIFICATE": {
-      "description": "58f78c66f65d4b00857046b06e805038",
+      "description": "cetificate ",
       "required": true
     }
   }
